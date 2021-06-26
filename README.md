@@ -108,9 +108,7 @@ Then download the following file and local_sagemaker.ipynb
 jupyter notebook&
 ```
 
-and find the file that you downloaded local_sagemaker.ipynb and open it.
-
-
+and find the file that you downloaded [local_sagemaker.ipynb](https://github.com/ruslanmv/SageMaker-On-Local-Machine/raw/master/local_sagemaker.ipynb) and open it.
 
 ### Local SageMaker
 
